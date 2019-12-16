@@ -1,2 +1,5 @@
 I learn  local branch and  remote  branch 
-refusing 
+refusing
+
+git config --global alias.ro remote
+
